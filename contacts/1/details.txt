@@ -4,5 +4,5 @@
         "last_name":"Asatryan",
         "phone":"374 95 614948",
         "note":"Armen`s notes",
-        "image":"https://armenasatryan.github.io/ContactList/contacts/1/image.png"
+        "image":"https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contacts/1/image.png"
       }

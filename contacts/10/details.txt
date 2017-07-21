@@ -4,5 +4,5 @@
         "last_name":"Adonc",
         "phone":"374 91 886633",
         "note":"Setrak`s notes",
-        "image":"https://armenasatryan.github.io/ContactList/contacts/10/image.png"
+        "image":"https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contacts/10/image.png"
       }

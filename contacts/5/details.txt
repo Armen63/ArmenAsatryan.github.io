@@ -4,5 +4,5 @@
         "last_name":"Eghiazaryan",
         "phone":"374 93 357722",
         "note":"Narek`s notes",
-        "image":"https://armenasatryan.github.io/ContactList/contacts/5/image.png"
+        "image":"https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contacts/5/image.png"
       }
