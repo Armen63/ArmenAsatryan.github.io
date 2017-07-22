@@ -29,7 +29,7 @@
       "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/4/image.png"
     },
     {
-      "user_id": 5,
+      "contact_id": 5,
       "first_name": "Narek",
       "last_name": "Eghiazaryan",
       "phone": "374 93 357722",
@@ -45,7 +45,7 @@
       "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/6/image.png"
     },
     {
-      "user_id": 7,
+      "contact_id": 7,
       "first_name": "Marsel",
       "last_name": "Tarjimanyan",
       "phone": "374 95 811196",
