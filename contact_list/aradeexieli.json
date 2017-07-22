@@ -29,10 +29,11 @@
       "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/4/image.png"
     },
     {
-      "contact_id": 5,
+      "user_id": 5,
       "first_name": "Narek",
       "last_name": "Eghiazaryan",
       "phone": "374 93 357722",
+      "note": "Narek`s notes",
       "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/5/image.png"
     },
     {
@@ -40,10 +41,11 @@
       "first_name": "Eduard",
       "last_name": "Harutyunyan",
       "phone": "374 55 669926",
+      "note": "Eduard`s notes",
       "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/6/image.png"
     },
     {
-      "contact_id": 7,
+      "user_id": 7,
       "first_name": "Marsel",
       "last_name": "Tarjimanyan",
       "phone": "374 95 811196",
