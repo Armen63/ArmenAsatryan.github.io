@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "contact_id": 1,
+      "first_name": "Armen",
+      "last_name": "Asatryan",
+      "phone": "374 95 614948",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/1/image.png"
+    },
+    {
+      "contact_id": 2,
+      "first_name": "Arman",
+      "last_name": "Hakobyan",
+      "phone": "374 55 102030",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/2/image.png"
+    },
+    {
+      "contact_id": 3,
+      "first_name": "Samvel",
+      "last_name": "Margaryan",
+      "phone": "374 93 626259",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/3/image.png"
+    },
+    {
+      "contact_id": 4,
+      "first_name": "Gevord",
+      "last_name": "Martirosyan",
+      "phone": "374 99 658899",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/4/image.png"
+    },
+    {
+      "user_id": 5,
+      "first_name": "Narek",
+      "last_name": "Eghiazaryan",
+      "phone": "374 93 357722",
+      "note": "Narek`s notes",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/5/image.png"
+    },
+    {
+      "contact_id": 6,
+      "first_name": "Eduard",
+      "last_name": "Harutyunyan",
+      "phone": "374 55 669926",
+      "note": "Eduard`s notes",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/6/image.png"
+    },
+    {
+      "user_id": 7,
+      "first_name": "Marsel",
+      "last_name": "Tarjimanyan",
+      "phone": "374 95 811196",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/7/image.png"
+    },
+    {
+      "contact_id": 8,
+      "first_name": "Martin",
+      "last_name": "Manukyan",
+      "phone": "374 98 885566",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/8/image.png"
+    },
+    {
+      "contact_id": 9,
+      "first_name": "Garnik",
+      "last_name": "Setrakyan",
+      "phone": "374 91 115599",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/9/image.png"
+    },
+    {
+      "contact_id": 10,
+      "first_name": "Setrak",
+      "last_name": "Adonc",
+      "phone": "374 91 886633",
+      "image": "https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contact_list/contacts/10/image.png"
+    }
+  ]
+}
