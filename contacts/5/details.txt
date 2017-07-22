@@ -1,8 +1,0 @@
-{
-        "user_id":5,
-        "first_name":"Narek",
-        "last_name":"Eghiazaryan",
-        "phone":"374 93 357722",
-        "note":"Narek`s notes",
-        "image":"https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contacts/5/image.png"
-      }

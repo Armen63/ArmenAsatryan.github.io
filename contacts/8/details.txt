@@ -1,8 +1,0 @@
-{
-        "user_id":8,
-        "first_name":"Martin",
-        "last_name":"Manukyan",
-        "phone":"374 98 885566",
-        "note":"Martins`s notes",
-        "image":"https://raw.githubusercontent.com/Armen63/ArmenAsatryan.github.io/master/contacts/8/image.png"
-      }
