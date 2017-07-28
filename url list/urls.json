@@ -2,23 +2,28 @@
   "urls": [
     {
       "url_id": 1,
-      "url_address": "http://jsoneditoronline.org/"
+      "url_address": "http://jsoneditoronline.org/",
+      "image" :""
     },
     {
       "url_id": 2,
-      "url_address": "https://github.com/"
+      "url_address": "https://github.com/",
+      "image" :""
     },
     {
       "url_id": 3,
-      "url_address": "https://www.youtube.com/"
+      "url_address": "https://www.youtube.com/",
+      "image" :""
     },
     {
       "url_id": 4,
-      "url_address": "https://web.facebook.com/"
+      "url_address": "https://web.facebook.com/",
+      "image" :""
     },
     {
       "url_id": 5,
-      "url_address": "https://www.google.ru"
+      "url_address": "https://www.google.ru",
+      "image" :""
     }
   ]
 }
