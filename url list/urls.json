@@ -9,22 +9,22 @@
     {
       "url_id": 2,
       "url_address": "https://github.com/",
-      "response_time" :0
+      "response_time" : 0
     },
     {
       "url_id": 3,
       "url_address": "https://www.youtube.com/",
-      "response_time" :0
+      "response_time" : 0
     },
     {
       "url_id": 4,
       "url_address": "https://web.facebook.com/",
-      "response_time" :0
+      "response_time" : 0
     },
     {
       "url_id": 5,
       "url_address": "https://www.google.ru",
-      "response_time" :
+      "response_time" : 0
     }
   ]
 }
