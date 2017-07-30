@@ -3,27 +3,28 @@
     {
       "url_id": 1,
       "url_address": "http://jsoneditoronline.org/",
-      "image" :""
+      "image" :"",
+      "response_time" : 0
     },
     {
       "url_id": 2,
       "url_address": "https://github.com/",
-      "image" :""
+      "response_time" :0
     },
     {
       "url_id": 3,
       "url_address": "https://www.youtube.com/",
-      "image" :""
+      "response_time" :0
     },
     {
       "url_id": 4,
       "url_address": "https://web.facebook.com/",
-      "image" :""
+      "response_time" :0
     },
     {
       "url_id": 5,
       "url_address": "https://www.google.ru",
-      "image" :""
+      "response_time" :
     }
   ]
 }
